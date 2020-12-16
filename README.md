@@ -8,3 +8,11 @@ To install the libraries you need to use the PIP
 ```bash
 pip3 install -r requirements.txt 
 ```
+
+## Run
+```bash
+python3 blackbox2gpmf.py
+```
+
+
+
